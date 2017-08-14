@@ -3,4 +3,6 @@
 * [Introduction](README.md)
 * [产品简介](chan-pin-jian-jie.md)
 * [用户用例](yong-hu-yong-li.md)
+* [产品概述](chan-pin-gai-shu.md)
+  * [微信小程序 “钛度电竞服务”](chan-pin-gai-shu/wei-xin-xiao-cheng-xu-201c-tai-du-dian-jing-fu-wu-201d.md)
 
