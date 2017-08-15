@@ -15,6 +15,6 @@
   * [5.扫码核销](zhu-ti-guan-ye-zhu-hou-tai-mo-kuai-shuo-ming/sao-ma-he-xiao.md)
   * [6.会员管理](zhu-ti-guan-ye-zhu-hou-tai-mo-kuai-shuo-ming/6hui-yuan-guan-li.md)
   * [7.微信推送模块](zhu-ti-guan-ye-zhu-hou-tai-mo-kuai-shuo-ming/7wei-xin-tui-song-mo-kuai.md)
-* 主题馆业主后台说明
+* [主题馆业主后台说明](zhu-ti-guan-ye-zhu-hou-tai-shuo-ming.md)
   * [1.主题馆管理](1zhu-ti-guan-guan-li.md)
 
