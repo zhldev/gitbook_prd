@@ -10,4 +10,9 @@
 * [主题馆业主后台模块说明](chan-pin-te-xing/zhu-ti-guan-ye-zhu-hou-tai-mo-kuai-shuo-ming.md)
   * [1.主题馆管理](chan-pin-te-xing/zhu-ti-guan-ye-zhu-hou-tai-mo-kuai-shuo-ming/1zhu-ti-guan-guan-li.md)
   * [2.电竞服务管理](chan-pin-te-xing/zhu-ti-guan-ye-zhu-hou-tai-mo-kuai-shuo-ming/2dian-jing-fu-wu-guan-li.md)
+  * [3.数据统计](chan-pin-te-xing/zhu-ti-guan-ye-zhu-hou-tai-mo-kuai-shuo-ming/3shu-ju-tong-ji.md)
+  * [4.订单管理](chan-pin-te-xing/zhu-ti-guan-ye-zhu-hou-tai-mo-kuai-shuo-ming/4ding-dan-guan-li.md)
+  * [5.扫码核销](chan-pin-te-xing/zhu-ti-guan-ye-zhu-hou-tai-mo-kuai-shuo-ming/sao-ma-he-xiao.md)
+  * [6.会员管理](chan-pin-te-xing/zhu-ti-guan-ye-zhu-hou-tai-mo-kuai-shuo-ming/6hui-yuan-guan-li.md)
+  * [7.微信推送模块](chan-pin-te-xing/zhu-ti-guan-ye-zhu-hou-tai-mo-kuai-shuo-ming/7wei-xin-tui-song-mo-kuai.md)
 
