@@ -25,7 +25,7 @@
 
 ###### 1.2 用户界面示意 {#12-用户界面示意}
 
-![](https://zhldev.gitbooks.io/taidu-prd-master/assets/%E7%94%B5%E7%AB%9E%E6%9C%8D%E5%8A%A1%E9%A6%96%E9%A1%B5%E5%95%86%E5%AE%B6%E5%88%97%E8%A1%A8.png)
+![](https://zhldev.gitbooks.io/taidu-prd-master/assets/电竞服务首页商家列表.png)
 
 ![](https://zhldev.gitbooks.io/taidu-prd-master/assets/2017-08-14_215910.jpg)
 
