@@ -10,5 +10,4 @@
 * [主题馆业主后台模块说明](chan-pin-te-xing/zhu-ti-guan-ye-zhu-hou-tai-mo-kuai-shuo-ming.md)
   * [1.主题馆管理](chan-pin-te-xing/zhu-ti-guan-ye-zhu-hou-tai-mo-kuai-shuo-ming/1zhu-ti-guan-guan-li.md)
   * [2.电竞服务管理](chan-pin-te-xing/zhu-ti-guan-ye-zhu-hou-tai-mo-kuai-shuo-ming/2dian-jing-fu-wu-guan-li.md)
-* [产品特性](chan-pin-te-xing.md)
 
