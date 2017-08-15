@@ -8,5 +8,5 @@
   * [主题馆业主后台](chan-pin-gai-shu/zhu-ti-guan-ye-zhu-hou-tai.md)
 * [产品特性](chan-pin-te-xing.md)
   * [“钛度电竞服务”模块说明](chan-pin-te-xing/201c-tai-du-dian-jing-fu-wu-201d-mo-kuai-shuo-ming.md)
-  * 主题馆业主后台模块说明
+  * [主题馆业主后台模块说明](chan-pin-te-xing/zhu-ti-guan-ye-zhu-hou-tai-mo-kuai-shuo-ming.md)
 
